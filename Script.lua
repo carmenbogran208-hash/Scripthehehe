@@ -61,4 +61,3 @@ local Toggle = Tab:CreateToggle({
 })
 
 Rayfield:LoadConfiguration()
-/rayfield

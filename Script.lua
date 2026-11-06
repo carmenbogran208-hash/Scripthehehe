@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu'))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Dandy's World Hub",
@@ -61,3 +61,4 @@ local Toggle = Tab:CreateToggle({
 })
 
 Rayfield:LoadConfiguration()
+/rayfield
